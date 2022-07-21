@@ -1,0 +1,49 @@
+* {
+    color: goldenrod;
+    font-family: sans-serif;
+    }
+    body {
+        background-color: #333;
+    }
+
+    hr {
+        width: 5%;
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        border-color: rgb(249, 222, 231);
+    }
+
+    #title {
+        font-style: italic;
+    }
+
+    img {
+        border-radius: 100px;
+    }
+
+    table {
+        border-spacing: 30px;
+    }
+
+    tr:hover {
+        background-color: lightgrey;
+    }
+
+    a {
+        color: rgb(249, 222, 231);
+    }
+
+    a:hover {
+        color: aquamarine;
+    }
+
+    h1, h2 {
+        color: rgb(249, 222, 231);
+    }
+
+    .contact {
+        background-color: goldenrod;
+        color: #333;
+        font-family: sans-serif;
+    }
